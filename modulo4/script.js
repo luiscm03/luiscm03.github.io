@@ -1,4 +1,7 @@
 /*
+Solution of assignment 4:
+
+Expected output:
 
 Hello Yaakov
 Good Bye John
